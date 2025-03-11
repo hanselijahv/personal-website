@@ -5,57 +5,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cdd9f18-e89f-4632-b0db-a2b285aaaf50" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/aesir-portfolio/src/components/NavbarSection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aesir-portfolio/src/components/TechStackSection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aesir-portfolio/src/utils/cursorAnimation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aesir-portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/aesir-portfolio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aesir-portfolio/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/aesir-portfolio/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aesir-portfolio/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/aesir-portfolio/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aesir-portfolio/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/aesir-portfolio/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aesir-portfolio/src/assets/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/aesir-portfolio/src/assets/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aesir-portfolio/src/components/HeroSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/aesir-portfolio/src/components/HeroSection.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aesir-portfolio/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/aesir-portfolio/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "hanselijahv"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hanselijahv&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/hanselijahv/portfolio.git",
-    "accountId": "ea833c1c-1893-4954-adcc-2b5b294b2097"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hanselijahv/portfolio.git&quot;,
+    &quot;accountId&quot;: &quot;ea833c1c-1893-4954-adcc-2b5b294b2097&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2sDqYYJPLgm6hLjhwoPU5VdUnPR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/Program Files/nodejs/node_modules/npm/bin/npm",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "E:\\Program Files\\Jetbrains\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Program Files/nodejs/node_modules/npm/bin/npm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\Program Files\\Jetbrains\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
       </set>
     </attachedChunks>
   </component>
@@ -67,7 +85,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738000541719</updated>
-      <workItem from="1738000544346" duration="718000" />
+      <workItem from="1738000544346" duration="778000" />
+      <workItem from="1738054124776" duration="4122000" />
+      <workItem from="1738059627785" duration="923000" />
+      <workItem from="1738685340370" duration="9161000" />
+      <workItem from="1739722396342" duration="633000" />
+      <workItem from="1741512401571" duration="1186000" />
+      <workItem from="1741684652051" duration="498000" />
     </task>
     <servers />
   </component>
