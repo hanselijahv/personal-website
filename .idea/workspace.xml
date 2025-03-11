@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cdd9f18-e89f-4632-b0db-a2b285aaaf50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aesir-portfolio/src/components/NavbarSection.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aesir-portfolio/src/components/TechStackSection.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aesir-portfolio/src/utils/cursorAnimation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Personal Website.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aesir-portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/aesir-portfolio/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aesir-portfolio/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/aesir-portfolio/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aesir-portfolio/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/aesir-portfolio/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aesir-portfolio/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/aesir-portfolio/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aesir-portfolio/src/assets/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/aesir-portfolio/src/assets/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aesir-portfolio/src/components/HeroSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/aesir-portfolio/src/components/HeroSection.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aesir-portfolio/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/aesir-portfolio/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +54,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;E:/Program Files/nodejs/node_modules/npm/bin/npm&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -92,6 +89,9 @@
       <workItem from="1739722396342" duration="633000" />
       <workItem from="1741512401571" duration="1186000" />
       <workItem from="1741684652051" duration="498000" />
+      <workItem from="1741685359720" duration="45000" />
+      <workItem from="1741685412188" duration="485000" />
+      <workItem from="1741685917004" duration="1496000" />
     </task>
     <servers />
   </component>
